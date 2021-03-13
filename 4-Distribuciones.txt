@@ -1,0 +1,24 @@
+4 - Distribuciones:
+-------------------
+
+Son paquetes que nos facilitan la tarea de instalar GNU/Linux.
+Las distribuciones traen un entorno concreto con paquetes que
+se adaptan a ciertas necesidades. Paquetes = software.
+
+Cada distribucion está hecha para públicos en específico. Por
+esta razón hay tantas distros.
+
+Todas las distribuciones están basadas en otras.
+
+Las distribuciones padres principales son tres: Debian, RedHat y Slackware.
+
+LiveCD o LiveDVD:
+-----------------
+
+Es una opción que tienen muchas distros para probar el sistema operativo
+sin necesidad de instalarlo. Esto nos ayuda a ver si nos gusta el sistema
+operativo, y se ajusta a nuestras necesidades.
+
+Esto también se usa para recuperar datos. Es muy útil.
+
+distrowatch.com -> Para ver muchos datos de distros populares.

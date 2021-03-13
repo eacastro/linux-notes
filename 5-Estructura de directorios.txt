@@ -1,0 +1,27 @@
+5 - Estructura de directorios:
+------------------------------
+
+Los sistemas operativos basados en Unix se dividen en directorios.
+Cada directorio tiene una funcion específica.
+
+Todo inicia en el directorio raiz (/)
+/bin -> utilerias que se pueden usar a nivel de usuario.
+/boot -> Archivos de arranque.
+/dev -> guarda las unidades que conectamos al equipo.
+/etc -> Guarda configuraciones de software.
+/home -> Carpeta de usuario. Aquí se guarda todos los documentos del usuario.
+/lib -> Bibliotecas para binarios y contiene los controladores.
+/media -> Puede contener puntos de montaje
+/opt -> Contiene software que es compartido por multiples usuarios.
+/proc -> Tiene un registro de eventos del sistema.
+/root -> Es lo equivalente a la carpeta home pero para el usuario root, que es quien administra el sistema.
+/sbin -> Contiene binarios o utilerias para el usuario root.
+/srv -> Guarda datos de servidores que tengamos en el pc
+/tmp -> Guarda datos temporales
+/usr -> Guarda utilerias compartidas
+/var -> Guarda archivos temporales y registro de eventos
+/sys -> Nos guarda informacion de particiones, kernel, etc.
+
+Los directorios se dividen en base a su funcion.
+Todos parten del directorio raiz.
+Es posible separar los directorios en particiones.

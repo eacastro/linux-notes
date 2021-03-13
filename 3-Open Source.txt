@@ -1,0 +1,15 @@
+3 - Open Source:
+-----------------
+
+El open source es otro movimiento, iniciado en el 98 por miembros de la FSF
+Los programas open source se desarrollan y distribuyen de forma libre.
+También son gratuitos.
+
+El open source comparte cosas del software libre, pero son dos cosas 
+diferentes. La diferencia está en la manera en la que ven al mundo.
+
+El open source ve el hecho de aportar con tu código a un programa, como
+una posibilidad de que ese programa mejore y sea más potente cada vez más.
+Pero la FSF ve el hecho de aportar con tu código como un deber, ya que
+somos humanos y debemos compartir el código siempre, según ellos. 
+No siempre es así con el Open Source.

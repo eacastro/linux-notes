@@ -1,0 +1,8 @@
+1 - Que es Gnu/Linux:
+---------------------
+
+Linux es el nucleo o kernel
+El kernel es el puente de comunicación entre el sistema operativo y el hardware
+GNU es el sistema operativo como tal, con sus componentes. Los dos juntos son un sistema operativo completo.
+
+En la jerga popular nos referimos sólamente a Linux para referirnos a todo. Pero Linux no es el sistema operativo.

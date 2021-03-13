@@ -1,0 +1,15 @@
+2 - Software libre:
+-------------------
+
+Es un movimiento filosófico y ético. Inició por Richard Stallman en el 85. 
+Busca defender las libertades de las personas al usar software, basándose
+a cuatro libertades básicas.
+
+Libertades:
+
+0 - Libertad de ejecutar el programa que desee y para lo que desee.
+1 - Libertad de ver el código fuente para modificarlo si desea.
+2 - Libertad de distribuir el software en beneficio de la comunidad.
+3 - Libertad de mejorar el software y publicar esas mejoras para ayudar a la comunidad.
+
+Free software no siempre es gratuito. Free es de libertad, no de gratuidad.
