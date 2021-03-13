@@ -1,0 +1,35 @@
+Introducción a la terminal:
+---------------------------
+
+Para abrir la terminal, podemos buscarla buscando las aplicaciones o con la combinación de
+teclas Ctrl + Alt + T.
+
+Conceptos básicos:
+------------------
+
+La terminal es un programa que viene incluido en todas las distribuciones, y nos permite
+programar con la Shell de Linux, que se llama Bash.
+
+Shell:
+-------
+
+Una Shell es una interfaz con la que podemos dar órdenes al sistema operativo. Tenemos la
+Shell gráfica, que para el caso de Ubuntu es Gnome, y tenemos las shell de texto plano, como
+la terminal.
+
+La shell nos permite interactuar con el sistema operativo. Podemos hacer infinidad de tareas
+con ella.
+
+Bash:
+-----
+
+Es un tipo de Shell de texto plano. Existe también ZSH, por ejemplo. Además de ser un intérprete
+de comandos, es un lenguaje de programación.
+
+Sintaxis básica de un comando:
+------------------------------
+
+comando-a-ejecutar parametro1 parametro2
+
+Los parámetros le dan más información a un comando para que ejecute la tarea de forma más
+concreta.

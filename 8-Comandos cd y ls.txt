@@ -1,0 +1,13 @@
+Comando cd:
+------------
+
+cd: change directory.
+
+Este comando nos permite desplazarnos entre nuestro sistema de archivos. Debemos tener
+en cuenta que cd lo manejamos mediante rutas relativos.
+
+
+Comando ls:
+------------
+
+Nos permite listar los archivos/directorios dentro de un directorio.

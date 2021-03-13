@@ -1,0 +1,9 @@
+Comando man:
+------------
+
+Algo importante que nos va a ayudar a manejar el pc con GNU/Linux es la documentación. La 
+documentación es información detallada sobre cómo se puede usar algo en GNU/Linux. 
+
+El comando man nos muestra información de cualquier programa que tengamos instalado. Para
+ejecutar este comando usamos la sintaxis: man nombre-programa, donde nombre-programa es el
+nombre del programa del que queremos información.
