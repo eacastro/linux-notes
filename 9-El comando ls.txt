@@ -1,0 +1,16 @@
+El comando ls:
+--------------
+
+Este comando nos permite listar todos los documentos y directorios que tengamos
+en nuestro directorio actual, que es desde donde funciona por defecto. Tiene 
+diferentes opciones que podemos consultar en el manual. Algunos de los parámetros
+más populares son:
+
+-l : Lista los archivos en forma de listado.
+-a : Muestra todos los archivos que contiene el directorio (Incluyendo los archivos ocultos).
+-h : Muestra el tamaño de los archivos en Kilobytes.
+-R : Muestra los archivos de forma recursiva (Directorios y su contenido).
+-t : Organiza los archivos con base a su fecha de modificación.
+
+Los parámetros pueden combinarse, y de esta forma obtener diferentes formas de presentación
+de los archivos.
